@@ -1,4 +1,4 @@
-@media (min-width:600px) {
+@media (min-width:721px) {
 	html {
 		overflow-x: hidden;
 	}
@@ -100,11 +100,12 @@
 		height: 293px;
 	}
 
-.foot {
+footer {
 		position: absolute;
-		width: 1521px;
+		width: max-content;
 		height: 95px;
-		right: 0px;
+		right: 50px;
+		left:40px;
 		top: 900px;
 	}
 }
