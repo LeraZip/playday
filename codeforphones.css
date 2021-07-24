@@ -1,0 +1,148 @@
+@media (max-width:600px){
+    html{
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #7F95D1;
+}
+
+h1 {
+    position: absolute;
+    width: 846px;
+    height: 63px;
+    left: 100px;
+    top: 1px;
+    font-family: 'Zen Loop', cursive;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 0px;
+    /* or 0% */
+
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+    h2 {
+        position: absolute;
+        width: 300px;
+        height: 26px;
+        left: 55px;
+        top: 100px;
+        font-family: 'Lato', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 22px;
+        line-height: 13px;
+        /* or 72% */
+
+        display: flex;
+        align-items: flex-end;
+        text-align: center;
+        letter-spacing: 0.066px;
+        color: #FFFFFF;
+    }
+
+ .bwid {
+        position: absolute;
+        width: 182px;
+        height: 190px;
+        top: 200px;
+        left:35px;
+    }
+
+    .bvideo {
+        position: absolute;
+        width: 154px;
+        height: 161.5px;
+        top: 214px;
+        left: 49px;
+    }
+
+    .wwid {
+        position: absolute;
+        width: 182px;
+        height: 190px;
+        top: 400px;
+        left: 160px;
+    }
+
+    .wvideo {
+        position: absolute;
+        width: 154px;
+        height: 161.5px;
+        top: 414px;
+        left: 174px;
+    }
+
+    .bwid2 {
+        position: absolute;
+        width: 182px;
+        height: 190px;
+        top: 600px;
+        left: 35px;
+    }
+
+    .bvideo2 {
+        position: absolute;
+        width: 154px;
+        height: 161.5px;
+        top: 614px;
+        left: 49px;
+    }
+
+    .wwid2 {
+        position: absolute;
+        width: 182px;
+        height: 190px;
+        top: 800px;
+        left: 160px;
+    }
+
+    .wvideo2 {
+        position: absolute;
+        width: 154px;
+        height: 161.5px;
+        top: 814px;
+        left: 174px;
+    }
+
+ .foot {
+        position: absolute;
+        width: 365px;
+        height: 80px;
+        left: 5px;
+        right: 5px;
+        top: 1000px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
