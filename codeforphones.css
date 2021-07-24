@@ -11,7 +11,7 @@ body {
         position: absolute;
         width: 526px;
         height: 0px;
-        left: 41%;
+        left: 22%;
         top: 8%;
         font-family: 'Zen Loop', cursive;
         font-style: normal;
@@ -30,7 +30,7 @@ body {
         position: absolute;
         width: 512px;
         height: 13px;
-        left: 37%;
+        left: 16%;
         top: 100px;
         font-family: 'Lato', sans-serif;
         font-style: normal;
@@ -48,72 +48,72 @@ body {
 
     .bwid {
         position: absolute;
-        width: 250px;
-        height: 250px;
-        top: 200px;
-        left: 35px;
+        width: 260px;
+        height: 260px;
+        top: 220px;
+        left: 15px;
     }
 
     .bvideo {
         position: absolute;
-        width: 213px;
-        height: 213px;
-        top: 218px;
-        left: 53px;
+        width: 223px;
+        height: 223px;
+        top: 238px;
+        left: 33px;
     }
 
     .wwid {
         position: absolute;
-        width: 250px;
-        height: 250px;
-        top: 600px;
-        left: 400px;
+        width: 260px;
+        height: 260px;
+        top: 620px;
+        left: 100px;
     }
 
     .wvideo {
         position: absolute;
-        width: 213px;
-        height: 213px;
-        top: 618px;
-        left: 418px;
+        width: 223px;
+        height: 223px;
+        top: 638px;
+        left: 118px;
     }
 
     .bwid2 {
         position: absolute;
-        width: 250px;
-        height: 250px;
-        top: 1000px;
-        left: 35px;
+        width: 260px;
+        height: 260px;
+        top: 1020px;
+        left: 15px;
     }
 
     .bvideo2 {
         position: absolute;
-        width: 213px;
-        height: 213px;
-        top: 1018px;
-        left: 53px;
+        width: 223px;
+        height: 223px;
+        top: 1038px;
+        left: 33px;
     }
 
     .wwid2 {
         position: absolute;
-        width: 250px;
-        height: 250px;
-        top: 1400px;
-        left: 400px;
+        width: 260px;
+        height: 260px;
+        top: 1420px;
+        left: 100px;
     }
 
     .wvideo2 {
         position: absolute;
-        width: 213px;
-        height: 213px;
-        top: 1418px;
-        left: 418px;
+        width: 223px;
+        height: 223px;
+        top: 1438px;
+        left: 118px;
     }
 
    .footer {
         position: absolute;
-        width: 100%;
-        height: 65px;
+        width: 377px;
+        height: 5%;
         right: 0px;
         left: 0px;
         top: 1800px;
