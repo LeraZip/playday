@@ -1,0 +1,103 @@
+
+html {
+	overflow-x: hidden;
+}
+body {
+	background-color: #7F95D1;
+}
+h1 {
+	position: absolute;
+	width: 846px;
+	height: 63px;
+	left: 540px;
+	top: 20px;
+	font-family: 'Zen Loop', cursive;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 96px;
+	line-height: 0px;
+	/* or 0% */
+
+	display: flex;
+	align-items: flex-end;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+h2 {
+	position: absolute;
+	width: 512px;
+	height: 13px;
+	left: 540px;
+	top: 200px;
+	font-family: 'Lato', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 13px;
+	display: flex;
+	align-items: flex-end;
+	text-align: center;
+	letter-spacing: 0.066px;
+	color: #FFFFFF;
+}
+.bwid {
+	position: absolute;
+	left: 70px;
+	top: 387px;
+}
+.bvideo {
+	position: absolute;
+	left: 95px;
+	top: 413px;
+	width: 278px;
+	height: 293px;
+}
+
+.wwid {
+	position: absolute;
+	left: 407px;
+	top: 442px;
+}
+.wvideo {
+	position: absolute;
+	left: 431px;
+	top: 467px;
+	width: 278px;
+	height: 293px;
+}
+
+.bwid2 {
+	position: absolute;
+	left: 745px;
+	top: 387px;
+}
+.bvideo2{
+	position: absolute;
+	left: 769.5px;
+	top: 413px;
+	width: 279px;
+	height: 293px;
+}
+
+.wwid2 {
+	position: absolute;
+	left: 1085px;
+	top: 442px;
+}
+
+.wvideo2 {
+	position: absolute;
+	left: 1110px;
+	top: 467px;
+	width: 278px;
+	height: 293px;
+}
+
+footer {
+	position: absolute;
+	width: 1530px;
+	height: 95px;
+	right: 20px;
+	top: 500px;
+}
